@@ -25,4 +25,4 @@ Bu proje, Python programlama dili kullanılarak geliştirilmiş konsol tabanlı 
 3. Aşağıdaki komut ile uygulamayı başlatın:
    ```bash
    python app.py
-(Not: Uygulamayı isterseniz doğrudan Google Colab üzerinden de test edebilirsiniz: TNC Group Colab Projesi)
+(Not: Uygulamayı isterseniz doğrudan Google Colab üzerinden de test edebilirsiniz: [TNC Group Colab Projesi](https://colab.research.google.com/drive/1tm-JPxMmWeY7bvwXKfgxNKWxAyrhPpYS?usp=sharing))
